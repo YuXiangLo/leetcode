@@ -15,6 +15,7 @@ public:
             }
         }
 
+		// So I think I have to edit file to make contribution I guess?
         int ret = -1, ret_cnt = 1e9;
         for (int i = 0, cnt; i < n; i++) {
             cnt = 0;
